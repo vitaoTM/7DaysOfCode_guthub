@@ -5,7 +5,7 @@ Para saber mais sobre o projeto clique [aqui](https://7daysofcode.io/)
 
 <div>
 
-  |📙 Titulo |7DaysOfCode |
+  |📙 Titulo | __7DaysOfCode__ |
   |:---------|:----------:|
   |😸 Desafio dia 1| Criar um repositorio no github|
   |📊 Desafio dia 2| Criar um arquivo html | 
