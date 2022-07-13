@@ -13,7 +13,7 @@ Para saber mais sobre o projeto clique [aqui](https://7daysofcode.io/)
   |🍀 Desafio dia 4| Alterar o arquivo html com meu proprio estilo |
   |💻 Desafio dia 5| Fazer um commit pelo VScode e arrumar o erro gerado|
   |🆘 Desafio dia 6| Simular um conflito de pull e resolve-lo no "mearde"|
-  |🏆 Desafio dia 7| |
+  |🏆 Desafio dia 7| Publicar o projeto no github pages |
  
 </div>
 
