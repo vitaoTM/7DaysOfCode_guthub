@@ -2,9 +2,6 @@
 
 Olá, nesse ropositorio sigo os desafios diários de 7 dias da Alura em como manejar, "commitar" e "pushar" arquivos no repositório do github. 
 Para saber mais sobre o projeto clique [aqui](https://7daysofcode.io/)
-<p align="center">
-  <img src="images/7daysofcode.svg#vitrinedev">
-</p>
 
 
 <div align="center">
@@ -18,6 +15,10 @@ Para saber mais sobre o projeto clique [aqui](https://7daysofcode.io/)
   |💻 Desafio dia 5| Fazer um commit pelo VScode e arrumar o erro gerado|
   |🆘 Desafio dia 6| Simular um conflito de pull e resolve-lo no "mearde"|
   |🏆 Desafio dia 7| Publicar o projeto no github pages |
+  |🔥 Link | https://7daysofcode.io/ |
  
 </div>
 
+<p align="center">
+  <img src="images/7daysofcode.svg#vitrinedev#vitrinedev">
+</p>
