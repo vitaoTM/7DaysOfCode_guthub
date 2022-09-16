@@ -20,5 +20,5 @@ Para saber mais sobre o projeto clique [aqui](https://7daysofcode.io/)
 </div>
 
 <p align="center">
-  <img src="images/7daysofcode.svg#vitrinedev#vitrinedev">
+  <img src="images/7daysofcode.svg#vitrinedev">
 </p>
